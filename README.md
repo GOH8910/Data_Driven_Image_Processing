@@ -1,6 +1,6 @@
 # 📊 Data-Driven Image Processing
 
-This repository contains my work and experiments in data-driven image processing using deep learning. It includes projects focused on medical image registration, segmentation, and restoration.
+This repository contains my uni work and experiments in data-driven image processing using deep learning in the medical space. It includes projects focused on medical image registration, segmentation, and restoration.
 
 ## 📁 Project Structure
 
