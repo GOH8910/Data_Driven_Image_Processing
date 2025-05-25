@@ -7,7 +7,6 @@ This repository contains my work and experiments in data-driven image processing
 - `Registration/` – Image registration using models like VoxelMorph
 - `Segmentation/` – Deep learning-based medical image segmentation (e.g. U-Net)
 - `Restoration/` – Image restoration and enhancement tasks
-- `utils/` – Utility scripts and helpers for preprocessing, metrics, and training
 
 ## 🚀 Goals
 
